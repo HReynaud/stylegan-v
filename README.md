@@ -1,3 +1,17 @@
+# This is a modified version of this [orignal repo](https://github.com/universome/stylegan-v).
+
+This repo add support for 112x112 resolution for FID, FVD and VIS.
+
+<p align="center">
+<br>
+- <br>
+<br>
+</p>
+
+
+
+# Original README:
+
 # StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2
 ### [CVPR 2022] Official pytorch implementation
 [[Project website]](https://universome.github.io/stylegan-v)
